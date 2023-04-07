@@ -1,0 +1,49 @@
+img{
+    width: 20% ;
+    float: left; 
+     margin-right:10px }
+     .text{
+        color: rgb(3, 253, 191);
+        text-decoration:underline ;
+        font-weight: bold;
+            color: rgba(132, 0, 255, 0.863);
+         text-align:justify ;
+        }
+            .block{
+                width: 800px;
+                margin: auto;
+                border:2px solid rebeccapurple ;
+                border-radius: 15px ;
+                padding: 20px;
+            background-color: rgba(251, 253, 253, 0.473);    
+            }
+            .menu a{
+                color: rgb(60, 175, 6);
+                text-decoration: none;
+                
+                text-transform: uppercase;
+                background: rgb(111, 0, 255) ;
+                padding:5px 10px ;
+
+              }
+              .menu a:hover{
+               background:red ;
+               text-decoration:underline ; 
+              }
+              h2{
+                text-transform: uppercase;
+                text-align:center ;
+                text-shadow :5px 5px 2px aquamarine ;
+                color: blue;
+        
+              }
+
+
+body{
+    background: url(https://avatarko.ru/img/kartinka/33/multfilm_lyagushka_32117.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-attachment: fixed ;
+
+
+}
